@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+
+# Environment / credentials
+.env
+*.env
+
+# Zip archives (submit individually, don't bloat git)
+*.zip
+
+# Editor
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,21 @@
+Q2 — Circadian-effective lighting & cognitive performance (APA 7)
+
+1. Cajochen, C., Münch, M., Kobialka, S., Kräuchi, K., Steiner, R., Oelhafen, P., Orgül, S., & Wirz-Justice, A. (2005). High sensitivity of human melatonin, alertness, thermoregulation, and heart rate to short wavelength light. Journal of Clinical Endocrinology & Metabolism, 90(3), 1311–1316. https://doi.org/10.1210/jc.2004-0957
+
+2. Chellappa, S. L., Steiner, R., Blattner, P., Oelhafen, P., Götz, T., & Cajochen, C. (2011). Non-visual effects of light on melatonin, alertness and cognitive performance: Can blue-enriched light keep us alert? PLoS ONE, 6(1), e16429. https://doi.org/10.1371/journal.pone.0016429
+
+3. Viola, A. U., James, L. M., Schlangen, L. J. M., & Dijk, D. J. (2008). Blue-enriched white light in the workplace improves self-reported alertness, performance and sleep quality. Scandinavian Journal of Work, Environment & Health, 34(4), 297–306. https://doi.org/10.5271/sjweh.1268
+
+4. Smolders, K. C. H. J., & de Kort, Y. A. W. (2014). Bright light and mental fatigue: Effects on alertness, vitality, performance and physiological arousal. Journal of Environmental Psychology, 39, 77–91. https://doi.org/10.1016/j.jenvp.2013.12.010
+
+5. Brown, T. M., Brainard, G. C., Cajochen, C., Czeisler, C. A., Hanifin, J. P., Lockley, S. W., Lucas, R. J., Münch, M., O'Hagan, J. B., Peirson, S. N., Price, L. L. A., Roenneberg, T., Schlangen, L. J. M., Skene, D. J., Spitschan, M., Vetter, C., Zee, P. C., & Wright, K. P., Jr. (2022). Recommendations for daytime, evening, and nighttime indoor light exposure to best support physiology, sleep, and wakefulness in healthy adults. PLOS Biology, 20(3), e3001571. https://doi.org/10.1371/journal.pbio.3001571
+
+6. Lucas, R. J., Peirson, S. N., Berson, D. M., Brown, T. M., Cooper, H. M., Czeisler, C. A., Figueiro, M. G., Gamlin, P. D., Lockley, S. W., O'Hagan, J. B., Price, L. L. A., Provencio, I., Skene, D. J., & Brainard, G. C. (2014). Measuring and using light in the melanopsin age. Trends in Neurosciences, 37(1), 1–9. https://doi.org/10.1016/j.tins.2013.10.004
+
+7. Mills, P. R., Tomkins, S. C., & Schlangen, L. J. M. (2007). The effect of high correlated colour temperature office lighting on employee wellbeing and work performance. Journal of Circadian Rhythms, 5, 2. https://doi.org/10.1186/1740-3391-5-2
+
+8. Sahin, L., & Figueiro, M. G. (2013). Alerting effects of short-wavelength (blue) and long-wavelength (red) lights in the afternoon. Physiology & Behavior, 116–117, 1–7. https://doi.org/10.1016/j.physbeh.2013.03.014
+
+9. Souman, J. L., Tinga, A. M., te Pas, S. F., van Ee, R., & Vlaskamp, B. N. S. (2018). Acute alerting effects of light: A systematic literature review. Behavioural Brain Research, 337, 228–239. https://doi.org/10.1016/j.bbr.2017.09.016
+
+10. Huiberts, L. M., Smolders, K. C. H. J., & de Kort, Y. A. W. (2015). Shining light on memory: Effects of bright light on working memory performance. Behavioural Brain Research, 294, 234–245. https://doi.org/10.1016/j.bbr.2015.07.045
