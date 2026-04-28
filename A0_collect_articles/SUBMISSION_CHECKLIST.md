@@ -1,13 +1,13 @@
 # A0 Pre-Submission Checklist
 
-## Q1 — Biophilic design & stress physiology (empirical only)
-- [x] 10 articles identified
-- [x] All 10 are empirical (original physiological data)
+## Q1 — CO2 Concentration & Decision Quality (K-ATLAS Q16, empirical only)
+- [x] 10 articles identified (all empirical human-subjects studies on CO2 → cognitive/decision outcomes)
+- [x] All 10 are empirical (original data: chamber RCTs, field studies, observational with exposure measurement, simulator experiments)
 - [x] APA 7 citations drafted (`Q1_assigned/apa_citations.txt`)
 - [x] Manifest CSV complete with title, authors, year, doi, abstract, source, notes (`Q1_assigned/manifest.csv`)
 - [x] All DOIs verified as resolvable
 - [x] Queries documented (`Q1_assigned/queries.md`)
-- [ ] PDFs downloaded to `Q1_assigned/pdfs/` (pending — see DOIs in manifest)
+- [x] PDFs downloaded to `Q1_assigned/pdfs/` — all 10 present (open access via Europe PMC, IZA, eScholarship, npj, ERL)
 
 ## Q2 — Circadian-effective lighting & cognition (any type)
 - [x] 10 articles identified (8 empirical + 1 systematic review + 1 consensus/methods)

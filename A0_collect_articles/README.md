@@ -3,12 +3,13 @@
 **Student:** Dhruv Sood (d2sood@ucsd.edu)
 **Total:** 20 articles = 10 Q1 (empirical-only) + 10 Q2 (any type)
 
-## Q1 — Biophilic design & stress physiology (empirical only)
-**Question:** What peer-reviewed empirical evidence shows that exposure to biophilic design elements (indoor plants, wood, green views, nature imagery) in built environments reduces physiological stress markers (cortisol, heart-rate variability, blood pressure, skin conductance) in healthy adults, and how do Stress Recovery Theory (Ulrich) and Attention Restoration Theory (Kaplan) account for these effects?
+## Q1 — CO2 Concentration & Decision Quality (empirical only, K-ATLAS Q16)
+**Question:** At what CO2 concentration does strategic decision-making quality (measured by SMS or comparable instrument) begin to decline, and is the threshold lower for cognitively demanding vs. routine tasks?
 
-**KA topic match:** Nature & Biophilia × Stress Response (Biophilic), VOI 0.60
+**KA topic match:** CO2 Concentration × Decision Quality (Q16)
+**Key instrument:** Strategic Management Simulation (SMS)
 
-All 10 Q1 papers contain original physiological data (cortisol, HRV, BP, SCR, EEG, or fNIRS).
+All 10 Q1 papers are empirical (original data, human subjects, CO2 as IV or measured exposure, cognitive/decision outcome as DV).
 
 ## Q2 — Circadian-effective lighting & cognitive performance (any type)
 **Question:** What peer-reviewed evidence shows that variations in circadian-effective lighting (melanopic lux, blue-enriched white light, dynamic day-like schedules) in office/classroom settings affect alertness, sustained attention, and working-memory performance in adults, and what ipRGC/melanopsin → SCN mechanisms explain these effects?
@@ -21,7 +22,7 @@ Mix of experiments, systematic review, consensus statement, and methods paper.
 - APA 7 citation — see `apa_citations.txt` in each folder
 - DOI — full `https://doi.org/...` link in manifest
 - Abstract — verbatim from publisher in manifest `abstract` column
-- Peer-reviewed, 1991–2022 range (all ≥1999 except Ulrich 1991 which is the foundational SRT paper)
+- Peer-reviewed (or IZA working paper for Künn 2019); publication range 2012–2025
 - Source journal in manifest `source` column
 
 ## Folder layout

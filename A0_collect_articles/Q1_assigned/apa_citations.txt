@@ -1,21 +1,22 @@
-Q1 — Biophilic design & stress physiology (APA 7)
+APA 7 Citations — Q1: CO2 Concentration & Decision Quality (K-ATLAS Q16)
+=========================================================================
 
-1. Park, B. J., Tsunetsugu, Y., Kasetani, T., Kagawa, T., & Miyazaki, Y. (2010). The physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest bathing): Evidence from field experiments in 24 forests across Japan. Environmental Health and Preventive Medicine, 15(1), 18–26. https://doi.org/10.1007/s12199-009-0086-9
+1. Satish, U., Mendell, M. J., Shekhar, K., Hotchi, T., Sullivan, D., Streufert, S., & Fisk, W. J. (2012). Is CO2 an indoor pollutant? Direct effects of low-to-moderate CO2 concentrations on human decision-making performance. *Environmental Health Perspectives*, *120*(12), 1671–1677. https://doi.org/10.1289/ehp.1104789
 
-2. Lee, M. S., Lee, J., Park, B. J., & Miyazaki, Y. (2015). Interaction with indoor plants may reduce psychological and physiological stress by suppressing autonomic nervous system activity in young adults: A randomized crossover study. Journal of Physiological Anthropology, 34(1), 21. https://doi.org/10.1186/s40101-015-0060-8
+2. Allen, J. G., MacNaughton, P., Satish, U., Santanam, S., Vallarino, J., & Spengler, J. D. (2016). Associations of cognitive function scores with carbon dioxide, ventilation, and volatile organic compound exposures in office workers: A controlled exposure study of green and conventional office environments. *Environmental Health Perspectives*, *124*(6), 805–812. https://doi.org/10.1289/ehp.1510037
 
-3. Brown, D. K., Barton, J. L., & Gladwell, V. F. (2013). Viewing nature scenes positively affects recovery of autonomic function following acute-mental stress. Environmental Science & Technology, 47(11), 5562–5569. https://doi.org/10.1021/es305019p
+3. Scully, R. R., Basner, M., Nasrini, J., Lam, C., Hermosillo, E., Gur, R. C., Moore, T., Alexander, D. J., Satish, U., & Ryder, V. E. (2019). Effects of acute exposures to carbon dioxide on decision making and cognition in astronaut-like subjects. *npj Microgravity*, *5*, 17. https://doi.org/10.1038/s41526-019-0071-6
 
-4. Ulrich, R. S., Simons, R. F., Losito, B. D., Fiorito, E., Miles, M. A., & Zelson, M. (1991). Stress recovery during exposure to natural and urban environments. Journal of Environmental Psychology, 11(3), 201–230. https://doi.org/10.1016/S0272-4944(05)80184-7
+4. Cedeño Laurent, J. G., MacNaughton, P., Jones, E., Young, A. S., Bliss, M., Flanigan, S., Vallarino, J., Chen, L. J., Cao, X., & Allen, J. G. (2021). Associations between acute exposures to PM2.5 and carbon dioxide indoors and cognitive function in office workers: A multicountry longitudinal prospective observational study. *Environmental Research Letters*, *16*(9), 094047. https://doi.org/10.1088/1748-9326/ac1bd8
 
-5. Yin, J., Zhu, S., MacNaughton, P., Allen, J. G., & Spengler, J. D. (2018). Physiological and cognitive performance of exposure to biophilic indoor environment. Building and Environment, 132, 255–262. https://doi.org/10.1016/j.buildenv.2018.01.006
+5. MacNaughton, P., Pegues, J., Satish, U., Santanam, S., Spengler, J., & Allen, J. (2015). Economic, environmental and health implications of enhanced ventilation in office buildings. *International Journal of Environmental Research and Public Health*, *12*(11), 14709–14722. https://doi.org/10.3390/ijerph121114709
 
-6. Yin, J., Yuan, J., Arfaei, N., Catalano, P. J., Allen, J. G., & Spengler, J. D. (2020). Effects of biophilic indoor environment on stress and anxiety recovery: A between-subjects experiment in virtual reality. Environment International, 136, 105427. https://doi.org/10.1016/j.envint.2019.105427
+6. Vehviläinen, T., Lindholm, H., Rintamäki, H., Pääkkönen, R., Hirvonen, A., Niemi, O., & Vinha, J. (2016). High indoor CO2 concentrations in an office environment increases the transcutaneous CO2 level and sleepiness during cognitive work. *Journal of Occupational and Environmental Hygiene*, *13*(1), 19–29. https://doi.org/10.1080/15459624.2015.1076160
 
-7. Beukeboom, C. J., Langeveld, D., & Tanja-Dijkstra, K. (2012). Stress-reducing effects of real and artificial nature in a hospital waiting room. Journal of Alternative and Complementary Medicine, 18(4), 329–333. https://doi.org/10.1089/acm.2011.0488
+7. Künn, S., Palacios, J., & Pestel, N. (2019). *Indoor air quality and cognitive performance* (IZA Discussion Paper No. 12632). Institute of Labor Economics. https://doi.org/10.2139/ssrn.3460848
 
-8. Elsadek, M., Liu, B., & Lian, Z. (2019). Green façades: Their contribution to stress recovery and well-being in high-density cities. Urban Forestry & Urban Greening, 46, 126446. https://doi.org/10.1016/j.ufug.2019.126446
+8. Shimazaki, K., Ishigaki, Y., Hayashi, K., & Fujita, K. (2025). Effects of in-car CO2 concentration on driving: A preliminary study with taxi drivers. *Environmental and Occupational Health Practice*, *7*(1), 2024-0025-OA. https://doi.org/10.1539/eohp.2025-0001
 
-9. Tsunetsugu, Y., Miyazaki, Y., & Sato, H. (2007). Physiological effects in humans induced by the visual stimulation of room interiors with different wood quantities. Journal of Wood Science, 53(1), 11–16. https://doi.org/10.1007/s10086-006-0812-5
+9. Young, A. S., Parikh, S., Dedesko, S., Bliss, M., Xu, J., Zanobetti, A., Miller, S. L., & Allen, J. G. (2024). Home indoor air quality and cognitive function over one year for people working remotely during COVID-19. *Building and Environment*, *261*, 111551. https://doi.org/10.1016/j.buildenv.2024.111551
 
-10. Ikei, H., Song, C., & Miyazaki, Y. (2017). Physiological effects of touching wood. International Journal of Environmental Research and Public Health, 14(7), 801. https://doi.org/10.3390/ijerph14070801
+10. Bejder Klausen, F., Amidi, A., Kjærgaard, S. K., Schlünssen, V., Ravn, P., Østergaard, K., Gutzke, V. H., Glasius, M., Grønborg, T. K., Hansen, S. N., Zachariae, R., Wargocki, P., & Sigsgaard, T. (2023). The effect of air quality on sleep and cognitive performance in school children aged 10–12 years: A double-blinded, placebo-controlled, crossover trial. *International Journal of Occupational Medicine and Environmental Health*, *36*(2), 177–191. https://doi.org/10.13075/ijomeh.1896.02032
