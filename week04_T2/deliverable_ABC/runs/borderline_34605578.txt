@@ -1,0 +1,35 @@
+1. Indoor Air. 2022 Jan;32(1):e12939. doi: 10.1111/ina.12939. Epub 2021 Oct 4.
+
+Physiological responses, self-reported health effects, and cognitive performance 
+during exposure to carbon dioxide at 20 000 ppm.
+
+Maniscalco J(1), Hoffmeyer F(1), Monsé C(1), Jettkant B(1), Marek E(1), Brüning 
+T(1), Bünger J(1), Sucker K(1).
+
+Author information:
+(1)Institute for Prevention and Occupational Medicine of the German Social 
+Accident Insurance, Institute of the Ruhr-University Bochum (IPA), Bochum, 
+Germany.
+
+In this study, 24 subjects (20-58 years) were exposed to carbon dioxide (CO2 ) 
+at 770 ppm and 20 000 ppm in an exposure laboratory for 4-h, including 
+2 × 15 min of cycling to investigate the effects on acid-base balance, 
+physiological responses, cognitive performance and acute health. Capillary blood 
+analysis, heart rate, respiratory rate, divided attention, flexibility, and 
+sustained attention from the Test Battery for Attentional Performance (TAP), 
+critical flicker fusion frequency (CFF), and self-reported symptoms were 
+measured before, during, and after the 4-h exposure. Blood pH decreased and 
+partial pressure of carbon dioxide (pCO2 ) increased significantly when exposed 
+to 20 000 ppm CO2 compared to 770 ppm. However, the values remained within the 
+normal range. In addition, respiratory rate increased slightly but significantly 
+at 20 000 ppm CO2 . No significant changes in heart rate, CFF, task performance 
+or acute health were found. In sum, the findings suggest that the observed 
+changes in acid-base balance and ventilation can be classified as physiological 
+adaptation responses. Impairment of cognitive performance is not expected from 
+exposure to 20 000 ppm CO2 , neither as direct effect on central nervous system 
+function nor as a distraction related to perception of health effects.
+
+© 2021 The Authors. Indoor Air published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ina.12939
+PMID: 34605578 [Indexed for MEDLINE]

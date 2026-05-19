@@ -1,0 +1,272 @@
+1. Int J Hyg Environ Health. 2026 Apr 24;275:114809. doi: 
+10.1016/j.ijheh.2026.114809. Online ahead of print.
+
+Do carbon dioxide, volatile organic compounds and atmospheric pressure affect 
+the cognitive performance of occupants in indoor environments? Results of a 
+large-scale experiment with simulated flights.
+
+Herbig B(1), Mayer F(2), Norrefeldt V(3), Wargocki P(4).
+
+Author information:
+(1)Institute and Clinic for Occupational, Social and Environmental Medicine, LMU 
+University Hospital, LMU Munich, Ziemssenstr. 5, 80336, München, Germany. 
+Electronic address: britta.herbig@med.uni-muenchen.de.
+(2)Fraunhofer Institute for Building Physics IBP, Holzkirchen Branch, 
+Fraunhoferstraße 10, 83626, Valley, Germany. Electronic address: 
+florian.mayer@ibp.fraunhofer.de.
+(3)Fraunhofer Institute for Building Physics IBP, Holzkirchen Branch, 
+Fraunhoferstraße 10, 83626, Valley, Germany. Electronic address: 
+victor.norrefeldt@ibp.fraunhofer.de.
+(4)International Centre for Indoor Environment and Energy, Department of 
+Environmental and Resource Engineering, Technical University of Denmark, Anker 
+Engelunds Vej 1, Bygning 101A, 2800, Kgs. Lyngby, Denmark. Electronic address: 
+pawar@dtu.dk.
+
+BACKGROUND: Indoor air quality, especially carbon dioxide (CO2) and volatile 
+organic compounds (VOCs), has been linked to cognitive impairment in previous 
+studies, even below guideline levels. Most previous studies employed small 
+cross-over designs and varied only one indoor air factor.
+OBJECTIVE: This study aimed to investigate the influence of various combinations 
+of indoor air parameters at typical and elevated levels on cognitive 
+performance.
+METHODS: We conducted a randomized controlled trial with 398 healthy adults aged 
+18-69 years. Participants were randomly assigned to 11 groups and exposed to 
+different combinations of pure CO2 (1200, 2750, 4200 ppm), atmospheric pressure 
+(940, 755 hPa), and a VOC mixture of selected compounds at low, medium, and high 
+concentrations. Eight different cognitive domains were assessed with established 
+tests.
+RESULTS: Participants rated air quality as good to very good at the end of 
+exposure in all groups. Analyses of variance with pairwise comparisons showed 
+effects of exposure in 2 out of 8 cognitive domains (concentration and figural 
+working memory). None of the observed differences were systematically aligned 
+with the air quality conditions.
+CONCLUSION: Our study provides no evidence that short-term exposure to various 
+combinations of CO2 (up to 4200 ppm), TVOCs (up to 2100 μg/m3), and atmospheric 
+pressure up to 8000 ft. elevation had any systematic negative effects on the 
+cognitive abilities of healthy adults. The TVOC results should be viewed with 
+caution, as a specific mixture was used, and other mixtures may occur in other 
+indoor environments. Rigorously designed studies with longer exposure times are 
+recommended.
+
+Copyright © 2026 The Authors. Published by Elsevier GmbH.. All rights reserved.
+
+DOI: 10.1016/j.ijheh.2026.114809
+PMID: 42035679
+
+
+2. Environ Occup Health Pract. 2025 Aug 27;7(1):2025-0001. doi: 
+10.1539/eohp.2025-0001. eCollection 2025.
+
+Effects of in-car CO2 concentration on driving: a preliminary study with taxi 
+drivers.
+
+Shimazaki K(1), Ishigaki Y(2), Hayashi K(1), Fujita K(1).
+
+Author information:
+(1)Faculty of Biology-oriented Science and Technology, Kindai University, 
+Wakayama, Japan.
+(2)Research Center for Realizing Sustainable Societies, The University of 
+Electro-Communications, Tokyo, Japan.
+
+OBJECTIVES: To evaluate the effects of carbon dioxide (CO2) concentrations in 
+automobiles on driving performance.
+METHODS: A driving simulator experiment was conducted with eight taxi drivers. 
+The experiment was conducted under low CO2 concentration (<500 ppm) and high CO2 
+concentration (5,000 ppm) conditions. To evaluate driving performance and 
+cognitive function, three measures were employed: a two-back task, an LED 
+response task, and a driving assessment. The driving assessment used scoring 
+criteria from the driving license proficiency test.
+RESULTS: Poisson regression analysis showed that wobble (p=0.044), signal 
+failure (p=0.045), contact (p=0.003), and wheel departure (p=0.005) were 
+significantly increased under high CO2 concentration conditions. Generalized 
+linear mixed model (GLMM) analysis showed that reaction time in the LED response 
+task was significantly reduced under high CO2 concentration conditions 
+(p<0.001). On the other hand, the GLMM analysis of the two-back task showed no 
+significant effect of CO2 concentration (incorrect response rate: p=0.733, 
+non-response rate: p=0.485).
+CONCLUSIONS: These results suggest that elevated CO2 concentrations may have a 
+negative impact on driving behavior, especially skill-based driving behavior. On 
+the other hand, the effects on cognitive tasks requiring working memory were 
+limited. The results of this study suggest that managing CO2 concentration in 
+vehicles is important for maintaining safe driving and raise the need for 
+specific measures, such as the development of systems for measuring, predicting, 
+and controlling CO2 concentration in vehicles, and the implementation of driver 
+education programs.
+
+© 2025 The Authors.
+
+DOI: 10.1539/eohp.2025-0001
+PMCID: PMC12461243
+PMID: 41020138
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose with respect to this study.
+
+
+3. J Expo Sci Environ Epidemiol. 2025 Jul;35(4):661-671. doi: 
+10.1038/s41370-025-00770-6. Epub 2025 Apr 9.
+
+Associations between indoor air exposures and cognitive test scores among 
+university students in classrooms with increased ventilation rates for COVID-19 
+risk management.
+
+Dedesko S(1)(2), Pendleton J(3), Young AS(3)(4), Coull BA(3), Spengler JD(3), 
+Allen JG(3).
+
+Author information:
+(1)Harvard T.H. Chan School of Public Health, Boston, MA, USA. 
+sdedesko@g.harvard.edu.
+(2)Harvard Graduate School of Arts and Sciences, Cambridge, MA, USA. 
+sdedesko@g.harvard.edu.
+(3)Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(4)Emory Rollins School of Public Health, Atlanta, GA, USA.
+
+BACKGROUND: Past work demonstrating an association between indoor air quality 
+and cognitive performance brought attention to the benefits of increasing 
+outdoor air ventilation rates beyond code minimums. These code minimums were 
+scrutinized during the COVID-19 pandemic for insufficient ventilation and 
+filtration specifications. As higher outdoor air ventilation was recommended in 
+response, questions arose about potential benefits of enhanced ventilation 
+beyond infection risk reduction.
+OBJECTIVE: This was investigated by examining associations between indoor carbon 
+dioxide concentrations, reflective of ventilation and building occupancy, and 
+cognitive test scores among graduate students attending lectures in university 
+classrooms with infection risk management strategies, namely increased 
+ventilation.
+METHODS: Post-class cognitive performance tests (Stroop, assessing inhibitory 
+control and selective attention; Arithmetic, assessing cognitive speed and 
+working memory) were administered through a smartphone application to 
+participating students (54 included in analysis) over the 2022-2023 academic 
+year in classrooms equipped with continuous indoor environmental quality 
+monitors that provided real-time measurements of classroom carbon dioxide 
+concentrations. Temporally and spatially paired exposure and outcome data was 
+used to construct mixed effects statistical models that examined different 
+carbon dioxide exposure metrics and cognitive test scores.
+RESULTS: Model estimates show directionally consistent evidence that higher 
+central and peak classroom carbon dioxide concentrations, indicative of 
+ventilation and occupancy, are associated with lower cognitive test scores over 
+the measured range included in analysis ( ~ 440-1630 ppm). The effect estimates 
+are strongest for 95th percentile class carbon dioxide concentrations, 
+representing peak class carbon dioxide exposures.
+IMPACT STATEMENT: As the COVID-19 pandemic eased, questions emerged on the 
+benefits of increased outdoor air ventilation beyond infection reduction. This 
+work assesses associations between carbon dioxide concentrations, indicative of 
+ventilation and occupancy, and cognitive test scores among students in 
+university classrooms with increased outdoor air ventilation. Although not 
+causal, models show statistically significant evidence of associations between 
+lower carbon dioxide concentrations and higher cognitive test scores over the 
+low range of carbon dioxide exposures in these classrooms. While the underlying 
+mechanisms remain unknown, higher outdoor air ventilation appears to provide 
+additional benefits by reducing indoor air exposure and supporting student 
+performance.
+
+© 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41370-025-00770-6
+PMID: 40204887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests. Ethical approval: Study ethics approval was obtained from 
+Harvard University’s Human Research Protection Program (IRB protocol 
+IRB21-1243). Signed informed consent was obtained from all participants who 
+enrolled in the study.
+
+
+4. Build Environ. 2024 Jun 1;257:111551. doi: 10.1016/j.buildenv.2024.111551.
+Epub  2024 Apr 24.
+
+Home indoor air quality and cognitive function over one year for people working 
+remotely during COVID-19.
+
+Young A(1)(2), Parikh S(1)(3), Dedesko S(1)(3), Bliss M(1)(2), Xu J(1), 
+Zanobetti A(1), Miller S(4), Allen J(1).
+
+Author information:
+(1)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, 677 Huntington Ave, Boston, MA, USA.
+(2)Gangarosa Department of Environmental Health, Emory Rollins School of Public 
+Health, 1518 Clifton Rd, Atlanta, GA, USA.
+(3)Program of Population Health Sciences, Harvard Graduate School of Arts and 
+Sciences, 1350 Massachusetts Ave, Cambridge, MA, USA.
+(4)Department of Mechanical Engineering, University of Colorado Boulder, 1111 
+Engineering Dr, Boulder, CO, USA.
+
+The coronavirus disease 2019 (COVID-19) pandemic triggered an increase in remote 
+work-from-home for office workers. Given that many homes now function as offices 
+despite not being designed to support office work, it is critical to research 
+the impact of indoor air quality (IAQ) in homes on the cognitive performance of 
+people working from home. In this study, we followed 206 office workers across 
+the U.S. over one year under remote or hybrid-remote settings during 2021-2022. 
+Participants placed two real-time, consumer-grade indoor environmental monitors 
+in their home workstation area and bedroom. Using a custom smartphone 
+application geofenced to their residential address, participants responded to 
+surveys and periodic cognitive function tests, including the Stroop color-word 
+interference test, Arithmetic two-digit addition/subtraction test, and Compound 
+Remote Associates Task (cRAT). Exposures assessed included carbon dioxide (CO2) 
+and thermal conditions (indoor heat index: a combination of temperature and 
+relative humidity) averaged over 30 minutes prior to each cognitive test. In 
+fully adjusted longitudinal mixed models (n≤121), we found that indoor thermal 
+conditions at home were associated with cognitive function outcomes non-linearly 
+(p<0.05), with poorer cognitive performance on the Stroop test and poorer 
+creative problem-solving on the cRAT when conditions were either too warm or too 
+cool. Most indoor CO2 levels were <640 ppm, but there was still a slight 
+association between higher CO2 and poorer cognitive performance on Stroop 
+(p=0.09). Our findings highlight the need to enhance home indoor environmental 
+quality for optimal cognitive function during remote work, with benefits for 
+both employees and employers.
+
+DOI: 10.1016/j.buildenv.2024.111551
+PMCID: PMC11221786
+PMID: 38966206
+
+
+5. Sci Total Environ. 2024 Feb 10;911:168785. doi:
+10.1016/j.scitotenv.2023.168785.  Epub 2023 Nov 22.
+
+Air quality in the car: How CO(2) and body odor affect drivers' cognition and 
+driving performance?
+
+Wang C(1), Lin Y(2), Ptukhin Y(3), Liu S(4).
+
+Author information:
+(1)Civil, Environmental, and Architectural Engineering, Worcester Polytechnic 
+Institute, Worcester, MA, USA. Electronic address: cwang12@wpi.edu.
+(2)Intelligent Human Machine Systems Lab, Mechanical and Industrial Engineering 
+Department, Northeastern University, Boston, MA, USA.
+(3)Accounting, Finance, Economics and Decision Science, Western Illinois 
+University, Macomb, IL, USA.
+(4)Civil, Environmental, and Architectural Engineering, Worcester Polytechnic 
+Institute, Worcester, MA, USA.
+
+Elevated indoor levels of CO2 and the presence of body odor have been shown to 
+have adverse effects on the cognitive function of building occupants. These 
+factors may also contribute to impaired in-car driving performance, potentially 
+posing a threat to transportation and public safety. To investigate the effects 
+of CO2 and body odor on driving performance, we enrolled 25 participants in 
+highway driving tasks under three indoor CO2 levels (800, 1800, and 3500 ppm) 
+and two body odor conditions (presence and absence). CO2 was injected in the 
+cabin to increase CO2 levels. In addition, we assessed working memory and 
+reaction time using N-back tasks during driving. We found that driving speed, 
+acceleration, and lateral control were not significantly affected by either CO2 
+or body odor. We observed no significant differences in sleepiness or emotion 
+under varying CO2 or body odor conditions, except for a lower level of emotion 
+valence with exposure to body odor. Task load was also not significantly 
+impacted by CO2 or body odor levels, except for a higher reported effort at 
+1800 ppm compared to 800 ppm CO2. However, participants did demonstrate 
+significantly higher accuracy with increased body odor exposure, suggesting a 
+complex effect of volatile organic compounds on driver cognition. Our findings 
+also revealed moderating effects of task difficulty of N-back tests and exposure 
+duration on cognition and driving performance. This is one of the first few 
+in-depth studies regarding environmental factors and their effect on drivers' 
+cognition and driving performance, and these results provide valuable insights 
+for car-cabin environmental design for air quality and driving safety.
+
+Copyright © 2023. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2023.168785
+PMID: 37996033 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

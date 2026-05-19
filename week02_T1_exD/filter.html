@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Evidence Search Filter — Exercise D</title>
+<style>
+  :root { --cream:#FAF6F0; --border:#D8D0C5; --ink:#2A2622; --muted:#6B6258; --accent:#2F4A3A; --warn:#A33; }
+  body { background:var(--cream); color:var(--ink); font-family: system-ui, sans-serif; margin:0; padding:24px; }
+  h1, h2, h3 { font-family: Georgia, serif; }
+  h1 { margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 20px; }
+  .filter-bar { background:#fff; border:1px solid var(--border); border-radius:10px; padding:16px; margin-bottom:16px; }
+  .row { display:flex; gap:12px; flex-wrap:wrap; align-items:end; }
+  .field { display:flex; flex-direction:column; gap:4px; }
+  .field label { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:0.04em; }
+  .field input, .field select { padding:6px 8px; border:1px solid var(--border); border-radius:6px; font: inherit; background:#fff; }
+  .field input[type="text"] { min-width: 240px; }
+  .field input[type="number"] { width: 80px; }
+  details.advanced { margin-top:12px; border-top:1px dashed var(--border); padding-top:12px; }
+  details.advanced summary { cursor:pointer; color:var(--muted); font-size:13px; }
+  .actions { margin-top:12px; display:flex; gap:12px; align-items:center; }
+  button { font: inherit; padding:6px 14px; border:1px solid var(--border); background:#fff; border-radius:6px; cursor:pointer; }
+  button.primary { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .summary { margin:12px 0; color:var(--muted); font-size:14px; }
+  .summary strong { color:var(--ink); }
+  .card { background:#fff; border:1px solid var(--border); border-radius:10px; padding:14px; margin-bottom:10px; }
+  .card .meta { font-size:12px; color:var(--muted); margin-bottom:6px; display:flex; gap:10px; flex-wrap:wrap; }
+  .card .finding { margin:0 0 6px; }
+  .pill { display:inline-block; padding:1px 8px; border:1px solid var(--border); border-radius:999px; font-size:11px; }
+  .pill.warranted { color:#246; border-color:#bcd; background:#eef4fb; }
+  .pill.ungrounded { color:#8a6d00; border-color:#e5d28a; background:#fbf6e2; }
+  .pill.defeated { color:var(--warn); border-color:#e0b3b3; background:#fbeded; }
+  .empty { padding:24px; text-align:center; color:var(--muted); border:1px dashed var(--border); border-radius:10px; background:#fff; }
+  #results { max-height: 60vh; overflow:auto; }
+</style>
+</head>
+<body>
+
+<h1>Evidence Search Filter</h1>
+<p class="sub">Filter ~1,900 K-ATLAS evidence claims. Defaults follow Nielsen's "primary 3" rule; rarer fields are behind <em>Advanced</em>.</p>
+
+<div class="filter-bar">
+  <div class="row">
+    <div class="field">
+      <label for="q">Keyword (in finding)</label>
+      <input id="q" type="text" placeholder="e.g. stress, glare, attention" />
+    </div>
+    <div class="field">
+      <label for="warrant_class">Warrant class</label>
+      <select id="warrant_class"><option value="">Any</option></select>
+    </div>
+    <div class="field">
+      <label for="cred_min">Credence ≥</label>
+      <input id="cred_min" type="number" min="0" max="1" step="0.05" />
+    </div>
+    <div class="field">
+      <label for="warrant_status">Status</label>
+      <select id="warrant_status"><option value="">Any</option></select>
+    </div>
+  </div>
+
+  <details class="advanced">
+    <summary>Advanced filters</summary>
+    <div class="row" style="margin-top:10px;">
+      <div class="field">
+        <label for="topic">Topic contains</label>
+        <input id="topic" type="text" placeholder="e.g. Biophilia, Luminous" />
+      </div>
+      <div class="field">
+        <label for="qualifier">Qualifier</label>
+        <select id="qualifier"><option value="">Any</option></select>
+      </div>
+      <div class="field">
+        <label for="defeat_type">Defeat type</label>
+        <select id="defeat_type"><option value="">Any</option></select>
+      </div>
+      <div class="field">
+        <label for="studyType">Study type</label>
+        <select id="studyType"><option value="">Any</option></select>
+      </div>
+      <div class="field">
+        <label for="sup_min">Support ≥</label>
+        <input id="sup_min" type="number" min="0" step="1" />
+      </div>
+      <div class="field">
+        <label for="att_max">Attacks ≤</label>
+        <input id="att_max" type="number" min="0" step="1" />
+      </div>
+    </div>
+  </details>
+
+  <div class="actions">
+    <button id="reset">Reset</button>
+    <span class="summary" id="summary">Loading…</span>
+  </div>
+</div>
+
+<div id="results"></div>
+
+<script>
+const FIELDS = ['q','warrant_class','cred_min','warrant_status','topic','qualifier','defeat_type','studyType','sup_min','att_max'];
+let ALL = [];
+
+async function load() {
+  // Tries local file first, then absolute URL. Fail gracefully so the demo still
+  // runs against an embedded sample if everything else is blocked.
+  const candidates = ['evidence.json', 'https://xrlab.ucsd.edu/ka/data/ka_payloads/evidence.json'];
+  for (const url of candidates) {
+    try {
+      const r = await fetch(url);
+      if (!r.ok) continue;
+      const j = await r.json();
+      return Array.isArray(j) ? j : (j.evidence || []);
+    } catch (_) {}
+  }
+  return [];
+}
+
+function uniqueSorted(arr, key) {
+  return [...new Set(arr.map(e => e[key]).filter(v => v !== undefined && v !== null && v !== ''))].sort();
+}
+
+function populateSelects() {
+  const fill = (id, values) => {
+    const sel = document.getElementById(id);
+    for (const v of values) {
+      const o = document.createElement('option');
+      o.value = v; o.textContent = v; sel.appendChild(o);
+    }
+  };
+  fill('warrant_class', uniqueSorted(ALL, 'warrant_class'));
+  fill('warrant_status', uniqueSorted(ALL, 'warrant_status'));
+  fill('qualifier', uniqueSorted(ALL, 'qualifier'));
+  fill('studyType', uniqueSorted(ALL, 'studyType'));
+  // defeat_type: include a synthetic "(none)" for empty string
+  const dt = document.getElementById('defeat_type');
+  const dtVals = [...new Set(ALL.map(e => e.defeat_type ?? ''))].sort();
+  for (const v of dtVals) {
+    const o = document.createElement('option');
+    o.value = v === '' ? '__none__' : v;
+    o.textContent = v === '' ? '(none)' : v;
+    dt.appendChild(o);
+  }
+}
+
+function readFilters() {
+  const get = id => document.getElementById(id).value.trim();
+  return {
+    q: get('q').toLowerCase(),
+    warrant_class: get('warrant_class'),
+    cred_min: get('cred_min') === '' ? null : parseFloat(get('cred_min')),
+    warrant_status: get('warrant_status'),
+    topic: get('topic').toLowerCase(),
+    qualifier: get('qualifier'),
+    defeat_type: get('defeat_type'),
+    studyType: get('studyType'),
+    sup_min: get('sup_min') === '' ? null : parseInt(get('sup_min'), 10),
+    att_max: get('att_max') === '' ? null : parseInt(get('att_max'), 10),
+  };
+}
+
+// Pure function — used by acceptance tests
+function applyFilters(records, f) {
+  return records.filter(e => {
+    if (f.q && !(e.finding || '').toLowerCase().includes(f.q)) return false;
+    if (f.warrant_class && e.warrant_class !== f.warrant_class) return false;
+    if (f.cred_min != null && (e.credence ?? 0) < f.cred_min) return false;
+    if (f.warrant_status && e.warrant_status !== f.warrant_status) return false;
+    if (f.qualifier && e.qualifier !== f.qualifier) return false;
+    if (f.studyType && e.studyType !== f.studyType) return false;
+    if (f.defeat_type) {
+      const dt = e.defeat_type ?? '';
+      if (f.defeat_type === '__none__') { if (dt !== '') return false; }
+      else if (dt !== f.defeat_type) return false;
+    }
+    if (f.sup_min != null && (e.support_count ?? 0) < f.sup_min) return false;
+    if (f.att_max != null && (e.attack_count ?? 0) > f.att_max) return false;
+    if (f.topic) {
+      const labels = (e.topic_labels || []).join(' ').toLowerCase();
+      const primary = (e.primary_topic || '').toLowerCase();
+      if (!labels.includes(f.topic) && !primary.includes(f.topic)) return false;
+    }
+    return true;
+  });
+}
+
+function render(filtered) {
+  const total = ALL.length;
+  const summary = document.getElementById('summary');
+  summary.innerHTML = `Showing <strong>${filtered.length}</strong> of <strong>${total}</strong> claims (<strong>${total - filtered.length}</strong> filtered out)`;
+
+  const out = document.getElementById('results');
+  if (filtered.length === 0) {
+    out.innerHTML = `<div class="empty">No claims match. Try widening credence or removing a filter.</div>`;
+    return;
+  }
+  // Cap render to 200 for performance; summary still reports full count.
+  const slice = filtered.slice(0, 200);
+  out.innerHTML = slice.map(e => {
+    const status = (e.warrant_status || '').toLowerCase();
+    const statusClass = status === 'warranted' ? 'warranted' : status === 'defeated' ? 'defeated' : 'ungrounded';
+    return `
+      <div class="card">
+        <div class="meta">
+          <span class="pill ${statusClass}">${e.warrant_status || '—'}</span>
+          <span class="pill">${e.warrant_class || '—'}</span>
+          <span>credence ${(e.credence ?? 0).toFixed(2)}</span>
+          <span>support ${e.support_count ?? 0} · attacks ${e.attack_count ?? 0}</span>
+          ${e.defeat_type ? `<span>defeat: ${e.defeat_type}</span>` : ''}
+          ${e.qualifier ? `<span>${e.qualifier}</span>` : ''}
+        </div>
+        <p class="finding">${escapeHtml(e.finding || '')}</p>
+        <div class="meta">${escapeHtml(e.primary_topic || '')} · ${escapeHtml(e.citation || '').slice(0,80)}</div>
+      </div>`;
+  }).join('') + (filtered.length > 200 ? `<div class="empty">Rendering first 200 of ${filtered.length}.</div>` : '');
+}
+
+function escapeHtml(s) { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function update() { render(applyFilters(ALL, readFilters())); }
+
+function bind() {
+  for (const id of FIELDS) document.getElementById(id).addEventListener('input', update);
+  document.getElementById('reset').addEventListener('click', () => {
+    for (const id of FIELDS) document.getElementById(id).value = '';
+    update();
+  });
+}
+
+function applyUrlState() {
+  const p = new URLSearchParams(location.search);
+  let openAdv = false;
+  for (const id of FIELDS) {
+    const v = p.get(id);
+    if (v != null) {
+      document.getElementById(id).value = v;
+      if (['topic','qualifier','defeat_type','studyType','sup_min','att_max'].includes(id)) openAdv = true;
+    }
+  }
+  if (openAdv || p.get('adv') === '1') document.querySelector('details.advanced').open = true;
+}
+
+(async () => {
+  ALL = await load();
+  if (ALL.length === 0) {
+    document.getElementById('summary').innerHTML = '<span style="color:var(--warn)">Could not load evidence.json. Place it next to this file or serve over HTTP.</span>';
+    return;
+  }
+  populateSelects();
+  bind();
+  applyUrlState();
+  update();
+})();
+
+// Expose for acceptance tests in the browser console.
+window.__exD = { applyFilters, get ALL() { return ALL; } };
+</script>
+</body>
+</html>

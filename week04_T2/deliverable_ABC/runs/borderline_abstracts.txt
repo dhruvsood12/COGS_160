@@ -1,0 +1,222 @@
+1. Sensors (Basel). 2025 Mar 21;25(7):1970. doi: 10.3390/s25071970.
+
+Measuring CO(2) Concentration and Thermal Comfort in Italian University 
+Classrooms: A Seasonal Analysis.
+
+Fedele A(1), Colantoni A(2), Calabrò G(1), Scungio M(1), Rossi S(1), Taborri 
+J(1).
+
+Author information:
+(1)Department of Economics, Engineering, Society and Business Organization, 
+University of Tuscia, 01100 Viterbo, Italy.
+(2)Department of Agriculture and Forest Sciences, University of Tuscia, 01100 
+Viterbo, Italy.
+
+This study investigates indoor air quality (IAQ) and thermal comfort in Italian 
+university classrooms, considering seasonal variations. Poor IAQ can impair 
+students' cognitive performance and well-being, making ventilation strategies 
+crucial. The aim is to assess CO2 levels, temperature, and humidity, analyzing 
+their interactions across seasons. A monitoring protocol was applied in three 
+classrooms using NDIR sensors and a microclimate assessment system. Sensors were 
+placed strategically to capture representative data in 20 days in spring and 
+autumn. Results indicate that CO2 levels peaked at 2324.2 ppm in autumn, 
+significantly exceeding the 1000 ppm threshold, whereas spring levels remained 
+below 953.4 ppm. Relative humidity ranged from 32.7% to 55.6%, with higher 
+values in autumn. Temperatures varied from 19.1 °C to 27.5 °C, with warmer 
+conditions in spring. Strong positive correlations (always greater than 0.70) 
+between CO2 and humidity suggest inadequate air exchange reduces IAQ, 
+potentially affecting cognitive performance. This research provides valuable 
+insights for improving student well-being through better air quality management. 
+This research provides valuable insights for optimizing classroom environments, 
+supporting cognitive performance, and improving student well-being through 
+better air quality management.
+
+DOI: 10.3390/s25071970
+PMCID: PMC11991519
+PMID: 40218481 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Environ Res. 2024 Dec 1;262(Pt 1):119785. doi: 10.1016/j.envres.2024.119785. 
+Epub 2024 Aug 13.
+
+Impact of carbon dioxide exposures on sleep latency among healthy volunteers: A 
+randomized order, paired crossover study, evidence from the multiple sleep 
+latency test.
+
+Jin RN(1), Inada H(2), Momma H(3), Ma D(3), Yuan K(3), Nagatomi R(4).
+
+Author information:
+(1)Division of Biomedical Engineering for Health & Welfare, Tohoku University 
+Graduate School of Biomedical Engineering, Sendai, Miyagi, 980-8575, Japan; 
+Tohoku University, Designing Future Health Initiative, Promotion Office of 
+Strategic Innovation, Sendai, Miyagi, 980-0845, Japan.
+(2)Division of Biomedical Engineering for Health & Welfare, Tohoku University 
+Graduate School of Biomedical Engineering, Sendai, Miyagi, 980-8575, Japan; 
+Department of Biochemistry & Cellular Biology, National Center of Neurology and 
+Psychiatry, Kodaira, Tokyo, 187-8502, Japan. Electronic address: 
+hinada@tohoku.ac.jp.
+(3)Department of Medicine and Science in Sports and Exercise, Tohoku University 
+Graduate School of Medicine, Sendai, Miyagi, 980-8575, Japan.
+(4)Division of Biomedical Engineering for Health & Welfare, Tohoku University 
+Graduate School of Biomedical Engineering, Sendai, Miyagi, 980-8575, Japan; 
+Department of Medicine and Science in Sports and Exercise, Tohoku University 
+Graduate School of Medicine, Sendai, Miyagi, 980-8575, Japan; Tohoku University, 
+Designing Future Health Initiative, Promotion Office of Strategic Innovation, 
+Sendai, Miyagi, 980-0845, Japan. Electronic address: 
+ryoichi.nagatomi.c4@tohoku.ac.jp.
+
+BACKGROUND: Daytime sleepiness affects work efficiency, occupational safety, and 
+public health. Although previous studies have reported an association between 
+environmental carbon dioxide (eCO2) and daytime sleepiness, it has been 
+challenging to draw a firm conclusion due to the lack of standardized sampling 
+and profiling protocols.
+OBJECTIVE: We examined the effect of pure CO2 exposure at 5000 (ppm, parts per 
+million) on daytime sleepiness.
+METHODS: Eleven healthy participants (males of 24 ± 3 years, mean ± SD) 
+completed a four-nap multiple sleep latency test (MSLT) protocol in the 
+environmentally controlled chamber under two conditions: the CO2 condition 
+(4851 ± 229 ppm) and the Control condition (1102 ± 204 ppm). The subjective 
+sleepiness level and cognitive performances were also evaluated using the 
+Stanford Sleepiness Scale (SSS) questionnaire, Psychomotor Vigilance Test (PVT), 
+and Stroop test after each nap session.
+RESULTS: A significant reduction in sleep latency was observed in the CO2 
+exposure condition (Control vs. CO2 = 13.1 ± 3.3 min vs. 9.7 ± 3.2 min). The 
+subjective sleepiness scores were also significantly higher in the CO2 exposure 
+condition than in the Control condition (Control vs. CO2 = 2.7 ± 0.5 vs. 
+4.7 ± 0.8). Cognitive responses after naps showed no significant difference 
+across conditions.
+CONCLUSION: This study revealed that exposure to environmental CO2 at a 
+concentration as high as the upper safety limit at work sites significantly 
+shortened the sleep latency and enhanced subjective sleepiness during naps in 
+the MSLT without affecting cognitive responses after each exposure. Our results 
+demonstrated that exposure to high environmental CO2 induces daytime sleepiness 
+that potentially compromises work efficiency and safety.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2024.119785
+PMID: 39142454 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. J Orthop. 2024 Jun 10;57:79-82. doi: 10.1016/j.jor.2024.06.007. eCollection
+2024  Nov.
+
+Real time monitoring of carbon dioxide levels in surgical helmet systems worn 
+during hip and knee arthroplasty.
+
+Board RH(1), Barrow J(2), Whelton C(2), Board TN(2).
+
+Author information:
+(1)Lancaster University, Lancaster, UK.
+(2)The Centre for Hip Surgery, Wrightington Hospital, Wigan, UK.
+
+BACKGROUND: Orthopaedic surgical helmet systems (SHS) rely on an intrinsic fan 
+to force clean external air over the wearer. Carbon dioxide (CO2) is produced 
+through aerobic metabolism and can potentially accumulate inside the SHS. Levels 
+above 2500 ppm have previously been shown to affect cognitive and practical 
+function. Maximum Health and Safety Executive (HSE) 8-h exposure limit is 
+5000 ppm. There is a paucity of data on real-world CO2 levels experienced during 
+arthroplasty surgery whilst wearing a SHS.
+OBJECTIVES: To determine intra-operative levels of CO2 experienced within SHS.
+METHODS: CO2 levels were continuously recorded during 30 elective 
+arthroplasties, both primary and revision. Data was recorded at 0.5Hz throughout 
+the procedure utilising a Bluetooth CO2 detector, worn inside a surgical helmet 
+worn with a toga gown. Five surgeons contributed real time data to the study.
+RESULTS: The average CO2 level across all procedures was 3006 ppm, with 23 of 
+the cases measured within the surgeons' helmets having a mean above 2500 ppm, 
+but none having a mean above 5000 ppm. For each procedure, the time spent above 
+2500 and 5000 ppm was calculated, with the means being 72.6 % and 5.4 % 
+respectively. Minimum fan speed was associated with only a marginally higher 
+mean CO2 value than maximum fan speed.
+DISCUSSION: The use of surgical helmet systems for elective orthopaedic surgery, 
+can result in CO2 levels regularly rising to a point which may affect cognitive 
+function.
+CONCLUSION: Further research is needed to corroborate these findings however, we 
+recommend that future designs of SHS include active management of exhaust gases, 
+possibly returning to Charnley's original design principles of the body exhaust 
+system.
+
+Crown Copyright © 2024 Published by Elsevier B.V. on behalf of Professor P K 
+Surendran Memorial Education Foundation. All rights are reserved, including 
+those for text and data mining, AI training, and similar technologies.
+
+DOI: 10.1016/j.jor.2024.06.007
+PMCID: PMC11231508
+PMID: 38988722
+
+
+4. Front Med (Lausanne). 2023 Jul 14;10:1052452. doi: 10.3389/fmed.2023.1052452. 
+eCollection 2023.
+
+Indoor CO(2) monitoring in a surgical intensive care unit under visitation 
+restrictions during the COVID-19 pandemic.
+
+Chou YA(1), Wang ZY(2)(3), Chang HC(2)(3), Liu YC(4), Su PF(4), Huang YT(1), 
+Yang CT(2)(5), Lai CH(1)(6)(7).
+
+Author information:
+(1)Department of Surgery, National Cheng Kung University Hospital, College of 
+Medicine, National Cheng Kung University, Tainan, Taiwan.
+(2)Department of Computer Science, Tunghai University, Taichung, Taiwan.
+(3)UniSmart Technology Co., Ltd., Taichung, Taiwan.
+(4)Department of Statistics, College of Management, National Cheng Kung 
+University, Tainan, Taiwan.
+(5)Research Center for Smart Sustainable Circular Economy, Tunghai University, 
+Taichung, Taiwan.
+(6)Department of Biochemistry and Molecular Biology, College of Medicine, 
+National Cheng Kung University, Tainan, Taiwan.
+(7)Department of Biostatistics, Vanderbilt University Medical Center, Nashville, 
+TN, United States.
+
+BACKGROUND: Indoor CO2 concentration is an important metric of indoor air 
+quality (IAQ). The dynamic temporal pattern of CO2 levels in intensive care 
+units (ICUs), where healthcare providers experience high cognitive load and 
+occupant numbers are frequently changing, has not been comprehensively 
+characterized.
+OBJECTIVE: We attempted to describe the dynamic change in CO2 levels in the ICU 
+using an Internet of Things-based (IoT-based) monitoring system. Specifically, 
+given that the COVID-19 pandemic makes hospital visitation restrictions 
+necessary worldwide, this study aimed to appraise the impact of visitation 
+restrictions on CO2 levels in the ICU.
+METHODS: Since February 2020, an IoT-based intelligent indoor environment 
+monitoring system has been implemented in a 24-bed university hospital ICU, 
+which is symmetrically divided into areas A and B. One sensor was placed at the 
+workstation of each area for continuous monitoring. The data of CO2 and other 
+pollutants (e.g., PM2.5) measured under standard and restricted visitation 
+policies during the COVID-19 pandemic were retrieved for analysis. Additionally, 
+the CO2 levels were compared between workdays and non-working days and between 
+areas A and B.
+RESULTS: The median CO2 level (interquartile range [IQR]) was 616 (524-682) ppm, 
+and only 979 (0.34%) data points obtained in area A during standard visitation 
+were ≥ 1,000 ppm. The CO2 concentrations were significantly lower during 
+restricted visitation (median [IQR]: 576 [556-596] ppm) than during standard 
+visitation (628 [602-663] ppm; p < 0.001). The PM2.5 concentrations were 
+significantly lower during restricted visitation (median [IQR]: 1 [0-1] μg/m3) 
+than during standard visitation (2 [1-3] μg/m3; p < 0.001). The daily CO2 and 
+PM2.5 levels were relatively low at night and elevated as the occupant number 
+increased during clinical handover and visitation. The CO2 concentrations were 
+significantly higher in area A (median [IQR]: 681 [653-712] ppm) than in area B 
+(524 [504-547] ppm; p < 0.001). The CO2 concentrations were significantly lower 
+on non-working days (median [IQR]: 606 [587-671] ppm) than on workdays (583 
+[573-600] ppm; p < 0.001).
+CONCLUSION: Our study suggests that visitation restrictions during the COVID-19 
+pandemic may affect CO2 levels in the ICU. Implantation of the IoT-based IAQ 
+sensing network system may facilitate the monitoring of indoor CO2 levels.
+
+Copyright © 2023 Chou, Wang, Chang, Liu, Su, Huang, Yang and Lai.
+
+DOI: 10.3389/fmed.2023.1052452
+PMCID: PMC10375033
+PMID: 37521349
+
+Conflict of interest statement: Z-YW and H-CC were employed by UniSmart 
+Technology Co., Ltd. The remaining authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

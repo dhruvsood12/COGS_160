@@ -1,0 +1,752 @@
+1. Int J Hyg Environ Health. 2026 Apr 24;275:114809. doi: 
+10.1016/j.ijheh.2026.114809. Online ahead of print.
+
+Do carbon dioxide, volatile organic compounds and atmospheric pressure affect 
+the cognitive performance of occupants in indoor environments? Results of a 
+large-scale experiment with simulated flights.
+
+Herbig B(1), Mayer F(2), Norrefeldt V(3), Wargocki P(4).
+
+Author information:
+(1)Institute and Clinic for Occupational, Social and Environmental Medicine, LMU 
+University Hospital, LMU Munich, Ziemssenstr. 5, 80336, München, Germany. 
+Electronic address: britta.herbig@med.uni-muenchen.de.
+(2)Fraunhofer Institute for Building Physics IBP, Holzkirchen Branch, 
+Fraunhoferstraße 10, 83626, Valley, Germany. Electronic address: 
+florian.mayer@ibp.fraunhofer.de.
+(3)Fraunhofer Institute for Building Physics IBP, Holzkirchen Branch, 
+Fraunhoferstraße 10, 83626, Valley, Germany. Electronic address: 
+victor.norrefeldt@ibp.fraunhofer.de.
+(4)International Centre for Indoor Environment and Energy, Department of 
+Environmental and Resource Engineering, Technical University of Denmark, Anker 
+Engelunds Vej 1, Bygning 101A, 2800, Kgs. Lyngby, Denmark. Electronic address: 
+pawar@dtu.dk.
+
+BACKGROUND: Indoor air quality, especially carbon dioxide (CO2) and volatile 
+organic compounds (VOCs), has been linked to cognitive impairment in previous 
+studies, even below guideline levels. Most previous studies employed small 
+cross-over designs and varied only one indoor air factor.
+OBJECTIVE: This study aimed to investigate the influence of various combinations 
+of indoor air parameters at typical and elevated levels on cognitive 
+performance.
+METHODS: We conducted a randomized controlled trial with 398 healthy adults aged 
+18-69 years. Participants were randomly assigned to 11 groups and exposed to 
+different combinations of pure CO2 (1200, 2750, 4200 ppm), atmospheric pressure 
+(940, 755 hPa), and a VOC mixture of selected compounds at low, medium, and high 
+concentrations. Eight different cognitive domains were assessed with established 
+tests.
+RESULTS: Participants rated air quality as good to very good at the end of 
+exposure in all groups. Analyses of variance with pairwise comparisons showed 
+effects of exposure in 2 out of 8 cognitive domains (concentration and figural 
+working memory). None of the observed differences were systematically aligned 
+with the air quality conditions.
+CONCLUSION: Our study provides no evidence that short-term exposure to various 
+combinations of CO2 (up to 4200 ppm), TVOCs (up to 2100 μg/m3), and atmospheric 
+pressure up to 8000 ft. elevation had any systematic negative effects on the 
+cognitive abilities of healthy adults. The TVOC results should be viewed with 
+caution, as a specific mixture was used, and other mixtures may occur in other 
+indoor environments. Rigorously designed studies with longer exposure times are 
+recommended.
+
+Copyright © 2026 The Authors. Published by Elsevier GmbH.. All rights reserved.
+
+DOI: 10.1016/j.ijheh.2026.114809
+PMID: 42035679
+
+
+2. Ecotoxicol Environ Saf. 2026 Jan 1;309:119578. doi: 
+10.1016/j.ecoenv.2025.119578. Epub 2026 Jan 6.
+
+Impact of experimentally elevated CO₂ concentrations and temperature on 
+cognitive function: An EEG-based study under constant ventilation.
+
+Yang Y(1), Dong H(2), Wang N(3), Zhang J(4), Zhang Z(5), Sun Q(6), Zhang W(7), 
+Wang J(8), Liu J(9), Liu Y(10), Wang D(11), Qu G(12), Jiang G(13), Chen L(14), 
+Ming D(15).
+
+Author information:
+(1)Medical College, Tianjin University, Tianjin, China. Electronic address: 
+yuksday@163.com.
+(2)Logistics University of Chinese People's Armed Police Forces, China. 
+Electronic address: donghj424@163.com.
+(3)Medical College, Tianjin University, Tianjin, China; Institution of Applied 
+Psychology, Tianjin University, Tianjin, China; School of Education, Tianjin 
+University, Tianjin, China. Electronic address: 1362213450@qq.com.
+(4)Medical College, Tianjin University, Tianjin, China; Institution of Applied 
+Psychology, Tianjin University, Tianjin, China; School of Education, Tianjin 
+University, Tianjin, China. Electronic address: staller_2021@tju.edu.cn.
+(5)Medical College, Tianjin University, Tianjin, China; Institution of Applied 
+Psychology, Tianjin University, Tianjin, China; School of Education, Tianjin 
+University, Tianjin, China. Electronic address: thechueng@tju.edu.cn.
+(6)Medical College, Tianjin University, Tianjin, China. Electronic address: 
+sunquan_mail@163.com.
+(7)Medical College, Tianjin University, Tianjin, China. Electronic address: 
+FDRZWR@163.com.
+(8)School of Artificial Intelligence and Data Science, Hebei University of 
+Technology, Tianjin, China. Electronic address: 943629025@qq.com.
+(9)School of Artificial Intelligence and Data Science, Hebei University of 
+Technology, Tianjin, China. Electronic address: liujing@scse.hebut.edu.cn.
+(10)Medical College, Tianjin University, Tianjin, China. Electronic address: 
+yeming_liu@163.com.
+(11)Department of Cardio-Thoracic Surgery, Tianjin Hospital Affiliated to 
+Tianjin University, Tianjin, China. Electronic address: tjdgwdb@163.com.
+(12)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 
+China. Electronic address: gbqu@rcees.ac.cn.
+(13)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 
+China. Electronic address: gbjiang@rcees.ac.cn.
+(14)Medical College, Tianjin University, Tianjin, China; Institution of Applied 
+Psychology, Tianjin University, Tianjin, China. Electronic address: 
+chenliqunlab@tju.edu.cn.
+(15)Medical College, Tianjin University, Tianjin, China. Electronic address: 
+richardming@tju.edu.cn.
+
+Global warming is expected to alter indoor thermal environments and indoor air 
+composition, yet the specific effects of these changes on learning and cognition 
+remain insufficiently understood. In this climate chamber study, we examined the 
+combined effects of experimentally elevated indoor CO₂ concentrations (500 and 
+5000 ppm, added from a gas cylinder under constant ventilation) and temperatures 
+(22 °C and 28 °C) on cognitive-related outcomes. Twenty-four participants 
+completed a within-subject protocol involving two neuropsychological tasks 
+(Stroop and delayed-matching-to-sample), subjective evaluations, physiological 
+measurements, and electroencephalography (EEG). EEG features were further used 
+to construct a deep learning-based Cognitive Comfort Model (CCM). Significant 
+interactions between CO₂ level and temperature were observed for noise 
+acceptability, thermal comfort, and EEG power in the alpha, theta, and delta 
+bands, whereas behavioral task performance showed only limited changes across 
+conditions. These results suggest that combined thermal-CO₂ stress can modulate 
+subjective comfort and neural indicators of cognitive load even when overt 
+performance is largely preserved. Our findings help to clarify the specific 
+effects of elevated CO₂ and temperature, independent of general poor 
+ventilation, and support the refinement of indoor environmental control 
+strategies aimed at protecting cognitive well-being in warming climates.
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ecoenv.2025.119578
+PMID: 41601028 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Liqun Chen reports financial 
+support was provided by the National Key Research and Development Program of 
+China. Liqun Chen reports financial support was provided by the National Natural 
+Science Foundation of China. If there are other authors, they declare that they 
+have no known competing financial interests or personal relationships that could 
+have appeared to influence the work reported in this paper.
+
+
+3. Lancet Reg Health Am. 2025 Jun 14;48:101148. doi: 10.1016/j.lana.2025.101148. 
+eCollection 2025 Aug.
+
+Decision tools for schools using continuous indoor air quality monitors: a case 
+study of CO(2) in Boston Public Schools.
+
+Ge B(1), Tieskens K(1), Vyas P(1), Botana Martinez MP(1), Yuan Y(1), Walsh 
+KH(2), Main L(2), Bolton L(2), Yajima M(3), Fabian MP(1)(4).
+
+Author information:
+(1)Department of Environmental Health, Boston University School of Public 
+Health, Boston, MA, USA.
+(2)Boston Public Schools, Boston, MA, USA.
+(3)Department of Math and Statistics, Boston University, Boston, MA, USA.
+(4)Institute for Global Sustainability, Boston University, Boston, MA, USA.
+
+BACKGROUND: Indoor environments in schools affect children's health and 
+learning, but without indoor air quality (IAQ) monitoring, staff have limited 
+data to inform interventions. We aimed to demonstrate the utility of 
+comprehensive real-time classroom IAQ monitoring for informing interventions and 
+investments in schools.
+METHODS: We created analytical datasets of classroom carbon dioxide (CO2) from a 
+groundbreaking network of 3659 commercial IAQ monitors installed across a U.S. 
+school district. We analysed patterns and trends in 125 school buildings over 
+the 2022-2023 school year. Working with Boston Public Schools (BPS) staff, we 
+co-created visualisations suitable for school decision-making and for research.
+FINDINGS: Over the school year, 245 million CO2 measurements were recorded. The 
+average school-day CO2 concentration was 841 ppm (SD: 405 ppm) and the 99.9th 
+percentile of daily maxima was 5080 ppm. Concentrations varied by over an order 
+of magnitude within and between schools. Elevated levels occurred in all 
+buildings, although schools with central mechanical ventilation had lower 
+concentrations and variability than schools without. We show multiple 
+visualisations of monitoring data using threshold-based exposure metrics.
+INTERPRETATION: Our academic-school partnership enabled actionable research in 
+support of IAQ improvements. The heterogeneity of CO2 levels across BPS 
+classrooms and between schools underscores the need for continuous 
+classroom-level monitoring and demand-controlled ventilation. Results and 
+protocols are generalisable to other schools and researchers. Our work paves the 
+road for future studies of IAQ and student health and learning.
+FUNDING: Boston University Initiative on Cities, Boston University School of 
+Public Health, National Institutes of Health, National Science Foundation.
+
+© 2025 The Authors.
+
+DOI: 10.1016/j.lana.2025.101148
+PMCID: PMC12206041
+PMID: 40585557
+
+Conflict of interest statement: KHW received approved support for conference 
+travel from the sensor vendor, SGS Galson.
+
+
+4. J Expo Sci Environ Epidemiol. 2025 Jul;35(4):661-671. doi: 
+10.1038/s41370-025-00770-6. Epub 2025 Apr 9.
+
+Associations between indoor air exposures and cognitive test scores among 
+university students in classrooms with increased ventilation rates for COVID-19 
+risk management.
+
+Dedesko S(1)(2), Pendleton J(3), Young AS(3)(4), Coull BA(3), Spengler JD(3), 
+Allen JG(3).
+
+Author information:
+(1)Harvard T.H. Chan School of Public Health, Boston, MA, USA. 
+sdedesko@g.harvard.edu.
+(2)Harvard Graduate School of Arts and Sciences, Cambridge, MA, USA. 
+sdedesko@g.harvard.edu.
+(3)Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(4)Emory Rollins School of Public Health, Atlanta, GA, USA.
+
+BACKGROUND: Past work demonstrating an association between indoor air quality 
+and cognitive performance brought attention to the benefits of increasing 
+outdoor air ventilation rates beyond code minimums. These code minimums were 
+scrutinized during the COVID-19 pandemic for insufficient ventilation and 
+filtration specifications. As higher outdoor air ventilation was recommended in 
+response, questions arose about potential benefits of enhanced ventilation 
+beyond infection risk reduction.
+OBJECTIVE: This was investigated by examining associations between indoor carbon 
+dioxide concentrations, reflective of ventilation and building occupancy, and 
+cognitive test scores among graduate students attending lectures in university 
+classrooms with infection risk management strategies, namely increased 
+ventilation.
+METHODS: Post-class cognitive performance tests (Stroop, assessing inhibitory 
+control and selective attention; Arithmetic, assessing cognitive speed and 
+working memory) were administered through a smartphone application to 
+participating students (54 included in analysis) over the 2022-2023 academic 
+year in classrooms equipped with continuous indoor environmental quality 
+monitors that provided real-time measurements of classroom carbon dioxide 
+concentrations. Temporally and spatially paired exposure and outcome data was 
+used to construct mixed effects statistical models that examined different 
+carbon dioxide exposure metrics and cognitive test scores.
+RESULTS: Model estimates show directionally consistent evidence that higher 
+central and peak classroom carbon dioxide concentrations, indicative of 
+ventilation and occupancy, are associated with lower cognitive test scores over 
+the measured range included in analysis ( ~ 440-1630 ppm). The effect estimates 
+are strongest for 95th percentile class carbon dioxide concentrations, 
+representing peak class carbon dioxide exposures.
+IMPACT STATEMENT: As the COVID-19 pandemic eased, questions emerged on the 
+benefits of increased outdoor air ventilation beyond infection reduction. This 
+work assesses associations between carbon dioxide concentrations, indicative of 
+ventilation and occupancy, and cognitive test scores among students in 
+university classrooms with increased outdoor air ventilation. Although not 
+causal, models show statistically significant evidence of associations between 
+lower carbon dioxide concentrations and higher cognitive test scores over the 
+low range of carbon dioxide exposures in these classrooms. While the underlying 
+mechanisms remain unknown, higher outdoor air ventilation appears to provide 
+additional benefits by reducing indoor air exposure and supporting student 
+performance.
+
+© 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41370-025-00770-6
+PMID: 40204887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests. Ethical approval: Study ethics approval was obtained from 
+Harvard University’s Human Research Protection Program (IRB protocol 
+IRB21-1243). Signed informed consent was obtained from all participants who 
+enrolled in the study.
+
+
+5. Front Public Health. 2026 Mar 5;14:1767357. doi: 10.3389/fpubh.2026.1767357. 
+eCollection 2026.
+
+EEG response and productivity outcome under changing indoor environment.
+
+Zhang S(1), Ma T(1), Zuoqiu S(1).
+
+Author information:
+(1)Sichuan University-Pittsburgh Institute, Chengdu, China.
+
+INTRODUCTION: Indoor environmental quality (IEQ) is a key determinant of health 
+economics and specifically of productivity. In this research, we investigated 
+the effect of three indoor environmental factors (temperature, acoustics, and 
+luminescence) under four different scenarios to generate real-world evidence on 
+how changes in the indoor environment affect productivity-related outcomes.
+METHODS: Two levels of temperature (15-17 °C and 23-25 °C), two levels of 
+acoustics (45 dB and 85 dB), and two levels of luminescence (300 lx and 700 lx) 
+were tested. We recruited 30 undergraduate students and measured their brain 
+activity using electroencephalogram (EEG) to obtain the Concentration Power 
+Index (CPI) and cognitive response with the Grooved Pegboard Test (GPT). 
+Individual's productivity was measured objectively by the CPI and subjectively 
+by the GPT. Mixed-effects regression analysis indicated that all three indoor 
+environmental factors have statistically significant effects on productivity.
+RESULTS: Relatively higher temperature is associated with increased 
+productivity, as indicated by higher CPI under the experimental conditions. 
+Lower acoustics are associated with productivity as indicated by lower GPT under 
+the conditions investigated. Luminescence is inversely associated with 
+productivity, as higher luminescence has a statistically significant correlation 
+with lower GPT within the tested luminescence range. However, males and females 
+responded differently under the same indoor environment. Specifically, 
+relatively lower temperature is associated with higher productivity for females 
+and lower GPT for males. Higher acoustics and lower luminescence are associated 
+with productivity for males.
+DISCUSSION: Overall, the study results suggest that indoor temperature at 
+23-25 °C, acoustics at 45 dB, and luminescence at 700 lx provide a more 
+favorable and productive environment for young adults. Louder environment and 
+excessive lighting correspond to lower human capital approach (HCA) values and 
+higher temperature corresponds to HCA again. With first-hand experimental 
+results, this study provides real-world indoor environmental data and could 
+provide scientific support for optimizing indoor environments and contributing 
+to the future interior environment design to enhance human productivity.
+
+Copyright © 2026 Zhang, Ma and Zuoqiu.
+
+DOI: 10.3389/fpubh.2026.1767357
+PMCID: PMC12999586
+PMID: 41869617 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The handling editor XW 
+declared a shared affiliation with the authors at the time of review.
+
+
+6. Sci Rep. 2026 Apr 9. doi: 10.1038/s41598-026-47250-x. Online ahead of print.
+
+Heat stress impacts affective processes and risk-taking behaviour.
+
+Wälde J(1), Amesberger G(2), Würth S(2), Reichert M(2)(3), Finkenzeller T(2).
+
+Author information:
+(1)Department of Sport and Exercise Science, University of Salzburg, Schloßallee 
+49, 5400, Hallein, Austria. jannic.waelde@plus.ac.at.
+(2)Department of Sport and Exercise Science, University of Salzburg, Schloßallee 
+49, 5400, Hallein, Austria.
+(3)Department of Psychiatry and Psychotherapy, Central Institute of Mental 
+Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.
+
+The understanding of heat stress on human behaviour is critical due to 
+increasing frequency of extreme heat events. Heat stress has been shown to 
+detrimentally alter affective states and cognition, effects that are 
+particularly critical for individuals exposed to heat conditions such as 
+firefighters, medical personnel, and athletes. Therefore, this study examined 
+how heat stress, exercise, and wearing firefighter protective gear interact to 
+influence affect and decision-making. A sample of 36 healthy young males was 
+assigned to either a passive, combined or heat-stress-free group. Subjective 
+perceptions of vitality, fatigue, thermal comfort and sensation were assessed, 
+controlling for body core-, skin temperature, relative humidity in the jacket, 
+and heart rate. Additionally, participants performed the Balloon Analogue Risk 
+Task and the Beads Task. Linear mixed models revealed that passive heat stress 
+increased fatigue, whereas vitality was not directly sensitive to heat stress. 
+Fatigue and vitality bidirectionally influenced each other independent of heat 
+stress, while thermal perception altered both affective states. Increased 
+risk-taking behaviour was observed under prolonged combined heat stress. No 
+effects on reflection impulsivity were found. Findings highlight differential 
+impacts of heat stress on affective processes that can bias risk-taking 
+behaviour. Particularly under combined heat stress, individuals may be prone to 
+potentially riskier behaviour, insights that should be tested towards ecological 
+validity in future proposals.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41598-026-47250-x
+PMID: 41957074
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethics approval: The local ethics committee 
+granted approval (EK-GZ 16/2023), and the experiments were performed in 
+accordance with these guidelines. Participants gave their written informed 
+consent before participation.
+
+
+7. Sci Total Environ. 2024 Feb 10;911:168785. doi:
+10.1016/j.scitotenv.2023.168785.  Epub 2023 Nov 22.
+
+Air quality in the car: How CO(2) and body odor affect drivers' cognition and 
+driving performance?
+
+Wang C(1), Lin Y(2), Ptukhin Y(3), Liu S(4).
+
+Author information:
+(1)Civil, Environmental, and Architectural Engineering, Worcester Polytechnic 
+Institute, Worcester, MA, USA. Electronic address: cwang12@wpi.edu.
+(2)Intelligent Human Machine Systems Lab, Mechanical and Industrial Engineering 
+Department, Northeastern University, Boston, MA, USA.
+(3)Accounting, Finance, Economics and Decision Science, Western Illinois 
+University, Macomb, IL, USA.
+(4)Civil, Environmental, and Architectural Engineering, Worcester Polytechnic 
+Institute, Worcester, MA, USA.
+
+Elevated indoor levels of CO2 and the presence of body odor have been shown to 
+have adverse effects on the cognitive function of building occupants. These 
+factors may also contribute to impaired in-car driving performance, potentially 
+posing a threat to transportation and public safety. To investigate the effects 
+of CO2 and body odor on driving performance, we enrolled 25 participants in 
+highway driving tasks under three indoor CO2 levels (800, 1800, and 3500 ppm) 
+and two body odor conditions (presence and absence). CO2 was injected in the 
+cabin to increase CO2 levels. In addition, we assessed working memory and 
+reaction time using N-back tasks during driving. We found that driving speed, 
+acceleration, and lateral control were not significantly affected by either CO2 
+or body odor. We observed no significant differences in sleepiness or emotion 
+under varying CO2 or body odor conditions, except for a lower level of emotion 
+valence with exposure to body odor. Task load was also not significantly 
+impacted by CO2 or body odor levels, except for a higher reported effort at 
+1800 ppm compared to 800 ppm CO2. However, participants did demonstrate 
+significantly higher accuracy with increased body odor exposure, suggesting a 
+complex effect of volatile organic compounds on driver cognition. Our findings 
+also revealed moderating effects of task difficulty of N-back tests and exposure 
+duration on cognition and driving performance. This is one of the first few 
+in-depth studies regarding environmental factors and their effect on drivers' 
+cognition and driving performance, and these results provide valuable insights 
+for car-cabin environmental design for air quality and driving safety.
+
+Copyright © 2023. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2023.168785
+PMID: 37996033 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. Environ Res. 2023 Jan 1;216(Pt 4):114770. doi: 10.1016/j.envres.2022.114770. 
+Epub 2022 Nov 9.
+
+Effects of increased recirculation air rate and aircraft cabin occupancy on 
+passengers' health and well-being - Results from a randomized controlled trial.
+
+Herbig B(1), Norrefeldt V(2), Mayer F(2), Reichherzer A(3), Lei F(4), Wargocki 
+P(4).
+
+Author information:
+(1)Institute and Clinic for Occupational, Social and Environmental Medicine, 
+University Hospital, LMU Munich, Germany. Electronic address: 
+britta.herbig@med.uni-muenchen.de.
+(2)Fraunhofer Institute for Building Physics IBP, Holzkirchen Branch, Germany.
+(3)Institute and Clinic for Occupational, Social and Environmental Medicine, 
+University Hospital, LMU Munich, Germany.
+(4)International Centre for Indoor Environment and Energy, Department of Civil 
+Engineering, Technical University of Denmark, Kgs. Lyngby, Denmark.
+
+BACKGROUND: Aircraft cabins are special environments. Passengers sit in close 
+proximity in a space with low pressure that they cannot leave. The cabin is 
+ventilated with a mixture of outside and recirculated air. The volume of outside 
+air impacts the carbon footprint of flying. Higher recirculation air rates could 
+be considered to save energy and divert less kerosene from producing thrust.
+OBJECTIVES: To investigate whether higher recirculation air rates in aircraft 
+cabins negatively affect passengers' health and well-being and if occupancy 
+plays a role in this.
+METHODS: In a 2 (occupancy: full and half-occupied) X 4 (ventilation regime) 
+factorial design with stratified randomization, participants were exposed in an 
+aircraft segment in a low-pressure tube during a 4-h simulated flight. 
+Ventilation regimes consisted of increasing proportions of recirculated air up 
+to a maximum CO2 concentration of 4200 ppm. Participants rated comfort, health 
+symptoms, and sleepiness multiple times. Heart rate (variability), as stress 
+marker, was measured continuously.
+RESULTS: 559 persons representative of flight passengers regarding age 
+(M = 42.7, SD = 15.9) and sex (283 men) participated. ANCOVA results showed 
+hardly any effect of both factors on self-reported health symptoms, strong main 
+effects of occupancy on comfort measures, and interaction effects for sleepiness 
+and physiological stress parameters: Participants in the half-occupied cabin 
+hardly reacted to increased recirculation air rates and show overall more 
+favorable responses. Participants in the fully occupied cabin reported higher 
+sleepiness and had stress reactions when the recirculation air rate was high.
+DISCUSSION: This large-scale RCT shows the importance of occupancy, a previously 
+neglected factor in indoor air research. The proximity of other people seems to 
+increase stress and exacerbate reactions to air quality. Further studies on 
+causal pathways are needed to determine if recirculation air rates can be 
+increased to reduce the carbon footprint of flying without detrimental effects 
+on passengers.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2022.114770
+PMCID: PMC9760572
+PMID: 36370817 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+9. Ecotoxicol Environ Saf. 2026 Jan 1;309:119626. doi: 
+10.1016/j.ecoenv.2025.119626. Epub 2026 Jan 8.
+
+Environmental regulation, air pollution, and cognitive function among 
+middle-aged and older adults in China: A quasi-experimental study.
+
+Zhao Q(1), Seow WJ(2).
+
+Author information:
+(1)Saw Swee Hock School of Public Health, National University of Singapore and 
+National University Health System, Singapore.
+(2)Saw Swee Hock School of Public Health, National University of Singapore and 
+National University Health System, Singapore; Department of Medicine, Yong Loo 
+Lin School of Medicine, National University of Singapore and National University 
+Health System, Singapore. Electronic address: ephswj@nus.edu.sg.
+
+BACKGROUND: Environmental regulations may yield substantial health benefits, yet 
+their impact on cognitive health remains inadequately understood. This study 
+exaimed the cognitive health benefits of China's Air Pollution Prevention and 
+Control Action Plan (APPCAP) and explored the potential contribution of 
+reduction in air pollution underlying this relationship.
+METHODS: Data were derived from four waves (2011-2018) of the China Health and 
+Retirement Longitudinal Study (CHARLS). The intervention and control groups were 
+designated based on provincial-level mandated air pollution reduction targets 
+under APPCAP (>5 % vs. ≤ 5 %). Cognitive function was assessed using 
+standardized questionnaires measuring episodic memory and mental status at each 
+wave. Ambient fine particulate matter (PM2.5) and self-reported household solid 
+fuel use for cooking were evaluated as indicators of outdoor and indoor air 
+pollution, respectively. A difference-in-difference (DID) approach was employed 
+to assess APPCAP's impact on cognitive function, with changes in outdoor and 
+indoor air pollution investigated as potential mechanisms. Heterogeneity in 
+policy effects across sociodemographic groups was also analysed.
+RESULTS: Implementation of the APPCAP was associated with significant 
+improvements in cognitive function (β coefficient = 0.72, 95 % CI: 0.50, 0.94). 
+Significant reductions in ambient PM2.5 concentrations and household solid fuel 
+use contributed to 9.49 % and 6.47 % of the cognitive health improvements 
+associated with the APPCAP, respectively. Subgroup analyses revealed stronger 
+protective effects among middle-aged adults, rural residents, and individuals 
+with lower educational attainment.
+CONCLUSIONS: This study provides evidence that environmental regulations could 
+effectively protect cognitive health through reductions in air pollution 
+exposure.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2025.119626
+PMID: 41512775 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+10. Int J Environ Res Public Health. 2023 Apr 19;20(8):5576. doi: 
+10.3390/ijerph20085576.
+
+Meta-Analysis of the Effect of Ventilation on Intellectual Productivity.
+
+Kuramochi H(1), Tsurumi R(2), Ishibashi Y(3).
+
+Author information:
+(1)Formerly of Faculty of Law, The University of Tokyo, Tokyo 113-0033, Japan.
+(2)Nikken Sekkei Research Institute, Tokyo 101-0052, Japan.
+(3)Department of Preventive Medicine and Public Health, Keio University School 
+of Medicine, Tokyo 160-8582, Japan.
+
+Indoor air quality (IAQ) influences the health and intellectual productivity of 
+occupants. This paper summarizes studies investigating the relationship between 
+intellectual productivity and IAQ with varying ventilation rates. We conducted a 
+meta-analysis of five studies, with a total of 3679 participants, and performed 
+subgroup analyses (arithmetic, verbal comprehension, and cognitive ability) 
+based on the type of academic performance. The task performance speed and error 
+rate were evaluated to measure intellectual productivity. The effect size of 
+each study was evaluated using the standardized mean difference (SMD). In 
+addition, we calculated a dose-response relationship between ventilation rate 
+and intellectual productivity. The results show that the task performance speed 
+improved, SMD: 0.18 (95% CI: 0.10-0.26), and the error rate decreased, SMD: 
+-0.05 (95% CI: -0.11-0.00), with an increase in ventilation rate. Converting the 
+intervention effect size on the SMD into the natural units of the outcome 
+measure, our analyses show significant improvements in the task performance 
+speed: 13.7% (95% CI: 6.2-20.5%) and 3.5% (95% CI: 0.9-6.1%) in terms of 
+arithmetic tasks and cognitive ability, respectively. The error rate decreased 
+by -16.1% (95% CI: -30.8-0%) in arithmetic tasks. These results suggest that 
+adequate ventilation is necessary for good performance.
+
+DOI: 10.3390/ijerph20085576
+PMCID: PMC10139101
+PMID: 37107857 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+11. Rev Environ Health. 2024 Feb 28;40(1):85-96. doi: 10.1515/reveh-2023-0158.
+Print  2025 Mar 26.
+
+The association between indoor air pollution from solid fuels and cognitive 
+impairment: a systematic review and meta-analysis.
+
+Peng H(1), Wang M(2), Wang Y(3), Niu Z(4), Suo F(5), Liu J(1), Zhou T(1), Yao 
+S(6).
+
+Author information:
+(1)47839 Beijing University of Chinese Medicine , Beijing, China.
+(2)Department of Maternal and Child Health, School of Public Health, Tongji 
+Medical College, Beijing, China.
+(3)Digestive Disease Center, Beijing Hospital of Traditional Chinese Medicine, 
+Capital Medical University, Beijing, P.R. China.
+(4)Department of Infections, 12517 Beijing Hospital of Traditional Chinese 
+Medicine, Capital Medical University , Beijing, China.
+(5)Department of Traditional Chinese Medicine, 532949 Dongguan People's Hospital 
+, Guangzhou, China.
+(6)Department of Gastroenterology, 36635 China-Japan Friendship Hospital , 
+Beijing, China.
+
+This study aimed to comprehensively and methodically evaluate the correlation 
+between cognitive impairment and indoor air pollution from solid fuel used for 
+cooking/heating. PubMed, Web of Science, EMBASE, and Cochrane Library databases 
+were searched up to December January 2023. 13 studies from three countries with 
+a total of 277,001 participants were enrolled. A negative correlation was 
+discovered between solid fuel usage for cooking and total cognitive score 
+(β=-0.73, 95 % CI: -0.90 to -0.55) and episodic memory score (β=-0.23, 95 % CI: 
+-0.30 to -0.17). Household solid fuel usage for cooking was considerably 
+associated with a raised risk of cognitive impairment (HR=1.31, 95 % CI: 
+1.09-1.57) and cognitive decline (HR=1.24, 95 % CI: 1.18-1.30). Compared to 
+continuous solid fuel use for cooking, sustained use of clean fuel and switching 
+from solid fuel to clean fuel were associated with a lower risk of cognitive 
+decline (OR=0.55, 95 % CI: 0.42-0.73; OR=0.81, 95 % CI: 0.71-0.93). A negative 
+association was found between solid fuel usage for heating and total cognitive 
+score (β=-0.43, 95 % CI: -0.59 to -0.26) and episodic memory score (β=-0.22, 
+95 % CI: -0.34 to -0.10). Our research provided evidence that exposure to indoor 
+air pollution from solid fuel is a potential cause of cognitive impairment and 
+cognitive decline. Making the switch from solid fuels to cleaner fuels could be 
+an important step in preventing cognitive impairment in the elderly.
+
+© 2024 Walter de Gruyter GmbH, Berlin/Boston.
+
+DOI: 10.1515/reveh-2023-0158
+PMID: 38413202 [Indexed for MEDLINE]
+
+
+12. J Appl Physiol (1985). 2021 Apr 1;130(4):1235-1246. doi: 
+10.1152/japplphysiol.00865.2020. Epub 2021 Feb 25.
+
+Effects of head-down tilt bed rest plus elevated CO(2) on cognitive performance.
+
+Basner M(1), Stahn AC(1), Nasrini J(1), Dinges DF(1), Moore TM(2), Gur RC(2), 
+Mühl C(3), Macias BR(4), Laurie SS(5).
+
+Author information:
+(1)Division of Sleep and Chronobiology, Department of Psychiatry, Perelman 
+School of Medicine at the University of Pennsylvania, Philadelphia, 
+Pennsylvania.
+(2)Brain Behavior Laboratory, Department of Psychiatry, Perelman School of 
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania.
+(3)Department of Sleep and Human Factors Research, Institute of Aerospace 
+Medicine, German Aerospace Center, Cologne, Germany.
+(4)NASA Johnson Space Center, Houston, Texas.
+(5)KBR, Houston, Texas.
+
+Microgravity and elevated CO2 levels are two important environmental spaceflight 
+stressors that can adversely affect astronaut cognitive performance and 
+jeopardize mission success. This study investigated the effects of 6° head-down 
+tilt bed rest (HDBR) with (n = 11 participants, 30-day HDBR) and without (n = 8 
+participants, 60-day HDBR) elevated ambient (3.73 mmHg) CO2 concentrations on 
+cognitive performance. Participants of both groups performed all 10 tests of 
+NASA's Cognition battery and a brief alertness and mood survey repeatedly 
+before, during, and after the HDBR period. Test scores were adjusted for 
+practice and stimulus set effects. Concentrating on the first 30 days of HDBR, a 
+modest but statistically significant slowing across a range of cognitive domains 
+was found in both groups (controls: -0.37 SD; 95% CI -0.48, -0.27; adjusted P < 
+0.0001; CO2: -0.25 SD; 95% CI -0.34, -0.16; adjusted P < 0.001), most 
+prominently for sensorimotor speed. These changes were observed early during 
+HDBR and did not further deteriorate or improve with increasing time in HDBR. 
+The study found similar cognitive effects of HDBR irrespective of CO2 levels, 
+suggesting that elevated CO2 neither ameliorated nor worsened the HDBR effects. 
+In both groups, cognitive performance after 15 days of recovery was 
+statistically indistinguishable from pre-HDBR performance. However, subjects 
+undergoing 60 days of HDBR rated themselves as feeling more sleepy, tired, 
+physically exhausted, stressed, and unhealthy during recovery compared to their 
+30-day counterparts.NEW AND NOTEWORTHY This study investigated the effects of 
+prolonged head-down tilt bed rest with and without elevated (3.73 mmHg) levels 
+of ambient CO2 on cognitive performance across a range of cognitive domains and 
+is one of the few studies investigating combined effects of environmental 
+stressors prevalent in spaceflight. The study showed moderate declines in 
+cognitive speed induced by head-down tilt bed rest and suggests that exposure to 
+elevated levels of ambient CO2 did not modify this effect.
+
+DOI: 10.1152/japplphysiol.00865.2020
+PMCID: PMC8262780
+PMID: 33630672 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflicts of interest, financial or 
+otherwise, are declared by the authors.
+
+
+13. Aerosp Med Hum Perform. 2025 Nov;96(11):1024-1026. doi:
+10.3357/AMHP.6716.2025.
+
+Carbon Dioxide as a Multisystem Threat in Long Duration Spaceflight.
+
+Evans LA.
+
+Elevated partial pressure of carbon dioxide (Pco2) poses a persistent health 
+challenge during spaceflight. Unlike Earth's environment, the International 
+Space Station experiences Pco2 levels that often exceed terrestrial safety 
+thresholds, creating unique physiological risks for astronauts. In microgravity, 
+localized Pco2 "pockets" can form due to lack of convection, exacerbating 
+hypercapnic symptoms such as headaches, visual disturbances, and cognitive 
+impairments. Moreover, microgravity-induced cephalad fluid shifts amplify the 
+impact of CO2-mediated cerebral vasodilation, contributing to elevated 
+intracranial pressure and potentially exacerbating spaceflight-associated 
+neuro-ocular syndrome. Chronic hypercapnia also raises concerns about bone 
+demineralization and renal stone formation, compounding mission risks. As we 
+move toward longer missions to the Moon and Mars, mitigating CO2-related health 
+effects through engineering controls, physiological countermeasures, and 
+enhanced monitoring is essential. This article discusses current evidence and 
+calls for integrated strategies to safeguard astronaut health and mission 
+success under the compounded stressors of CO2 exposure and microgravity. Evans 
+LA. Carbon dioxide as a multisystem threat in long duration spaceflight. Aerosp 
+Med Hum Perform. 2025; 96(11):1024-1026.
+
+DOI: 10.3357/AMHP.6716.2025
+PMID: 41253359 [Indexed for MEDLINE]
+
+
+14. Dialogues Health. 2025 Oct 10;7:100249. doi: 10.1016/j.dialog.2025.100249. 
+eCollection 2025 Dec.
+
+Sick building syndrome and indoor air quality in Malaysian bank offices: A 
+cross-sectional analysis.
+
+Abd Razak A(1), Saidin H(2), Buralli R(3), Cordoba L(4), Tengku Ibrahim TNB(5), 
+Nazli SN(5)(6).
+
+Author information:
+(1)School of Mechanical Engineering, College of Engineering, Universiti 
+Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia.
+(2)Department of Occupational Safety and Health, Ministry of Human Resources 
+Malaysia, Presint 1, Putrajaya 62000, Wilayah Persekutuan Putrajaya, Malaysia.
+(3)Department of Policy, Management and Health, School of Public Health, 
+University of Sao Paulo, SP, Brazil.
+(4)Geography School, National University, Costa Rica.
+(5)Department of Environmental Health, Faculty of Health Sciences, Universiti 
+Teknologi MARA Cawangan Pulau Pinang, Kampus Bertam, 13200 Kepala Batas, Pulau 
+Pinang, Malaysia.
+(6)The University of Queensland, Child Health Research Centre, South Brisbane, 
+QLD, Australia.
+
+Sick building syndrome (SBS) encompasses a range of non-specific symptoms 
+experienced by occupants, commonly associated with poor indoor air quality 
+(IAQ). This study investigated the associations between IAQ parameters and SBS 
+symptoms among 124 office workers across six bank offices in Malaysia. Indoor 
+PM2.5, PM10, CO2, TVOC, formaldehyde, temperature and relative humidity were 
+measured using validated instruments, while SBS symptoms were assessed using 
+standardized questionnaire adapted from the Industry Code of Practice of Indoor 
+Air Quality (ICOPIAQ) 2010. Findings revealed that banks using split-unit air 
+conditioning (AC) ventilation had higher concentration of PM2.5 and CO2, 
+exceeding the recommended standards, compared to those using air-conditioning 
+and mechanical ventilation (ACMV) ventilation type. The most prevalent symptoms 
+were headache (47.6 %), cough (44.4 %), irritated and stuffy nose (38.7 %), 
+irritation of eyes (35.5 %), fatigue (25 %), dizziness (25 %), feeling 
+heavy-headed (24.2 %), and skin rash or itchiness (24.2 %). Among these, 
+dizziness was significantly associated with PM2.5, PM10, CO2, and formaldehyde 
+levels. These findings highlight the need for improved ventilation and IAQ 
+management in bank offices. Public policies and interventions at organizational 
+level are essential to mitigate SBS risks and safeguard worker health.
+
+© 2024 Published by Elsevier Inc. CC BY-NC-ND 4.0.
+
+DOI: 10.1016/j.dialog.2025.100249
+PMCID: PMC12553057
+PMID: 41140948
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

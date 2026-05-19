@@ -1,0 +1,38 @@
+{
+  "submitter": "Dhruv Sood",
+  "track": "Track 2",
+  "week": 4,
+  "phase": "Phase 2 — Question Making",
+  "research_front": "CO2 x Decision Quality (K-ATLAS Q16) + adjacent IAQ/cognition",
+  "clusters": {
+    "C1": "CO2 x Decision Quality",
+    "C2": "PM2.5 x Cognition",
+    "C3": "Ventilation x Office Productivity",
+    "C4": "Thermal / IEQ x Cognitive Performance"
+  },
+  "questions": [
+    {"id": "GS-1", "tool": "Google AI Scholar", "cluster": "C1", "question": "What experimental evidence shows that indoor CO2 above 1000 ppm impairs strategic decision-making in adult office workers, and which populations have been tested?", "expected_yield": "5-8 cited primary sources, >=3 already in corpus"},
+    {"id": "GS-2", "tool": "Google AI Scholar", "cluster": "C2", "question": "Are there meta-analyses or systematic reviews on indoor air quality (CO2, PM2.5) effects on cognitive performance in office or classroom settings published since 2020?", "expected_yield": "2-4 SRs (Kuramochi 2023 confirmed)"},
+    {"id": "GS-3", "tool": "Google AI Scholar", "cluster": "C3", "question": "What is the dose-response relationship between outdoor-air ventilation rate and worker cognitive performance, and at what ventilation rate do returns diminish?", "expected_yield": "4-6 cites; canonical Allen/Wargocki/Fisk likely"},
+    {"id": "GS-4", "tool": "Google AI Scholar", "cluster": "C4", "question": "How does combined exposure to elevated indoor temperature and elevated CO2 affect cognitive performance compared to either factor alone?", "expected_yield": "2-3 papers; high VOI gap"},
+    {"id": "GS-5", "tool": "Google AI Scholar", "cluster": "C1", "question": "What papers cite Satish et al. 2012 (Environmental Health Perspectives) and report null or contradictory results?", "expected_yield": "2-4 candidates; Scully 2019 likely"},
+
+    {"id": "EL-1", "tool": "Elicit", "cluster": "C1", "question": "What is the lowest indoor CO2 concentration at which adult decision-making performance has been shown to decline in randomized controlled chamber studies?", "expected_yield": "8-12 papers; consensus near 1000 ppm"},
+    {"id": "EL-2", "tool": "Elicit", "cluster": "C1", "question": "Do studies using the Strategic Management Simulation replicate decision-making decrements at 1000 ppm CO2 across populations beyond Satish 2012?", "expected_yield": "5-8 SMS-using studies; mixed replication record"},
+    {"id": "EL-3", "tool": "Elicit", "cluster": "C3", "question": "What effect sizes have been reported for the relationship between mechanical-ventilation rate (cfm/person) and Stroop or n-back performance in office settings?", "expected_yield": "6-10 papers; effect 5-15% per ventilation doubling"},
+    {"id": "EL-4", "tool": "Elicit", "cluster": "C2", "question": "Across longitudinal observational studies of office workers, what effect size has been reported for IQR-increase in PM2.5 on Stroop response time?", "expected_yield": "3-5 papers; Cedeno Laurent 2021 anchor"},
+    {"id": "EL-5", "tool": "Elicit", "cluster": "C4", "question": "What experimental studies have measured cognitive performance under combined perturbations of indoor CO2, temperature, and humidity, and what extracted moderator effects do they report?", "expected_yield": "2-4 papers; high-VOI gap"},
+
+    {"id": "CO-1", "tool": "Consensus", "cluster": "C1", "question": "Does elevated indoor CO2 cause measurable cognitive decrements in healthy adults at concentrations below 2000 ppm?", "expected_yield": "Mixed verdict; ~6 supporting, ~3 rebutting"},
+    {"id": "CO-2", "tool": "Consensus", "cluster": "C2", "question": "Does indoor PM2.5 exposure degrade decision-making quality independently of CO2 in office or classroom settings?", "expected_yield": "Mixed -> Yes; ~6:2"},
+    {"id": "CO-3", "tool": "Consensus", "cluster": "C3", "question": "Does increasing outdoor-air ventilation rate above ASHRAE minima improve cognitive performance in office workers?", "expected_yield": "Yes; ~10:1"},
+    {"id": "CO-4", "tool": "Consensus", "cluster": "C4", "question": "Do indoor temperatures outside the 21-23 C comfort range degrade decision-making in office workers?", "expected_yield": "Mixed/Yes; non-linear"},
+    {"id": "CO-5", "tool": "Consensus", "cluster": "C1", "question": "Does CO2 inhalation at 1000-2500 ppm impair attention as measured by the Stroop test?", "expected_yield": "Mixed; instrument-specific"},
+
+    {"id": "PM-1", "tool": "PubMed", "cluster": "C1", "boolean_query": "(\"Strategic Management Simulation\"[TIAB]) AND (CO2[TIAB] OR \"carbon dioxide\"[TIAB] OR ventilation[TIAB])", "question": "All Strategic Management Simulation studies that manipulate or measure CO2 / ventilation.", "expected_yield": "~8 hits, >=6 Include"},
+    {"id": "PM-2", "tool": "PubMed", "cluster": "C1", "boolean_query": "(Wargocki P[Author] OR Allen JG[Author] OR Satish U[Author] OR MacNaughton P[Author] OR Herbig B[Author]) AND (CO2[TIAB] OR ventilation[TIAB] OR IAQ[TIAB]) AND (\"2020\"[PDAT] : \"3000\"[PDAT])", "question": "Recent (2020+) work by anchor authors on CO2 / ventilation / IAQ.", "expected_yield": "25-40 hits, >=15 Include"},
+    {"id": "PM-3", "tool": "PubMed", "cluster": "C3", "boolean_query": "(\"ventilation rate\"[TIAB] OR \"outdoor air\"[TIAB]) AND (\"Cognition\"[Mesh] OR \"Cognitive Function\"[TIAB] OR Stroop[TIAB])", "question": "Ventilation x cognition with MeSH-broadened cognition vocabulary.", "expected_yield": "30-50 hits, >=10 Include"},
+    {"id": "PM-4", "tool": "PubMed", "cluster": "C2", "boolean_query": "(PM2.5[TIAB] OR \"particulate matter\"[TIAB]) AND (\"cognitive performance\"[TIAB] OR \"executive function\"[TIAB]) AND (\"office\"[TIAB] OR \"classroom\"[TIAB] OR \"indoor\"[TIAB]) NOT (animal*[TIAB] OR mouse*[TIAB] OR mice[TIAB] OR rat[TIAB])", "question": "Indoor PM2.5 x cognition in human office/classroom populations.", "expected_yield": "12-20 hits, >=6 Include"},
+    {"id": "PM-5", "tool": "PubMed", "cluster": "C4", "boolean_query": "(\"indoor environmental quality\"[TIAB] OR IEQ[TIAB] OR \"thermal comfort\"[TIAB]) AND (Stroop[TIAB] OR \"n-back\"[TIAB] OR \"decision-making\"[TIAB] OR EEG[TIAB]) AND (office[TIAB] OR worker*[TIAB] OR classroom[TIAB])", "question": "IEQ/thermal x canonical cognitive instruments in worker/student populations.", "expected_yield": "15-25 hits, >=5 Include"}
+  ]
+}

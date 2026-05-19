@@ -24,3 +24,10 @@ dist/
 .idea/
 .vscode/
 *.swp
+
+# Track 2 — external nested git repos (the cloned/forked Article Finder, Knowledge Atlas,
+# atlas_shared). Each has its own .git and is committed/pushed separately to its own
+# remote. Do not track them inside this parent repo. See track2/README.md.
+track2/Article_Finder/
+track2/Knowledge_Atlas/
+track2/atlas_shared/
